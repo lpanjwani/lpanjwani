@@ -5,7 +5,6 @@
 Shipping production AI in regulated finance serving 10M+ MAU. MSc AI, King's College London. Work featured on CNN & CNBC.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lavesh--panjwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavesh-panjwani)
-[![Email](https://img.shields.io/badge/Email-lpanjwani@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lpanjwani@outlook.com)
 ![Location](https://img.shields.io/badge/Dubai-UAE-black?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ## Focus
